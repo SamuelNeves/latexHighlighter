@@ -15,5 +15,6 @@ Actually the output file is named "myfile.tex".
 # TODO Things
 
 * Refactor code
+* Include more variatons of the words, like plurals
 * Expand hights to bold and colors
 * Have a life.
