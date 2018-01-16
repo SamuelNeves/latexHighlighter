@@ -2,9 +2,9 @@
 
 Script hardcoded, made in python to highlight a set of words  in a latex source file. 
 
-The set of words is listed in the file  "listOfWords.txt" separeted by '\n'.
+The set of words is listed in the file  "listOfWords.txt", separeted by '\n'.
 
-To do this the script read the .tex file and the "listOfWords.txt" and replace the words with \textit command plus the word.
+To do this, the script read the .tex file and the "listOfWords.txt" and replace the words with \textit command plus the word.
 
 Actually the output file is named "myfile.tex".
 
@@ -19,5 +19,5 @@ Actually the output file is named "myfile.tex".
 
 * Refactor code
 * Include more variatons of the words, like plurals
-* Expand hights to bold and colors
+* Expand highlights to bold and colors
 * Have a life.
